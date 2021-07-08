@@ -1,0 +1,6 @@
+C:\Users\Boqie Zhang\source\repos\DLL_Test\DLL_Test\bin\Debug\DLL_Test.dll
+C:\Users\Boqie Zhang\source\repos\DLL_Test\DLL_Test\bin\Debug\DLL_Test.pdb
+C:\Users\Boqie Zhang\source\repos\DLL_Test\DLL_Test\obj\Debug\DLL_Test.csprojAssemblyReference.cache
+C:\Users\Boqie Zhang\source\repos\DLL_Test\DLL_Test\obj\Debug\DLL_Test.csproj.CoreCompileInputs.cache
+C:\Users\Boqie Zhang\source\repos\DLL_Test\DLL_Test\obj\Debug\DLL_Test.dll
+C:\Users\Boqie Zhang\source\repos\DLL_Test\DLL_Test\obj\Debug\DLL_Test.pdb
